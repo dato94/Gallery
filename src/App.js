@@ -1,9 +1,9 @@
-
+import Gallery from "./Components/Gallery";
 
 function App() {
   return (
     <div className="App">
-      hello
+      <Gallery />
     </div>
   );
 }
